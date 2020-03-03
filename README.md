@@ -6,7 +6,7 @@
 ### Part01：機器學習概論
 - [Day 1 資料介紹與評估資料 (申論+程式碼)](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_001_HW.ipynb)
 - [Day 2 機器學習概論 (申論題)](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_002_HW.ipynb)
-- [Day 3 機器學習-流程與步驟 ( 申論題)(https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_003_HW.ipynb)
+- [Day 3 機器學習-流程與步驟 ( 申論題)](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_003_HW.ipynb)
 - [Day 4 EDA/讀取資料與分析流程](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_004_HW.ipynb)
 ### Part02：資料清理數據前處理
 - [Day 5 如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_005_HW.ipynb)
@@ -58,7 +58,7 @@
 - [Day 48 Kaggle 競賽平台介紹](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_048_HW.ipynb)
 - [Day 49 集成方法 : 混合泛化(Blending)](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_048_HW%20.ipynb)
 - [Day 50 集成方法 : 堆疊泛化(Stacking)](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_050_HW.ipynb)
-###期中考:Kaggle期中考 考ML與調參相關
+### 期中考:Kaggle期中考 考ML與調參相關
 - [Day 51 反爬：代理 IP](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_051_HW.ipynb)
 - [Day 52 加速：多線程爬蟲](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_052_HW.ipynb)
 - [Day 53 加速：非同步爬蟲](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_053_HW.ipynb)
@@ -114,7 +114,7 @@
 - [Day 98 反爬：驗證碼處理](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_098_HW%20.ipynb)
 - [Day 99 反爬：登入授權模擬](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_099_HW.ipynb)
 - [Day 100 反爬：代理 IP](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_100_HW.ipynb)
-###期末考:Kaggle 期末考
+### 期末考:Kaggle 期末考
 - [Day 101 影像辨識](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_101_HW.ipynb)
 - [Day 102 影像辨識](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_102_HW.ipynb)
 - [Day 103 影像辨識](https://github.com/inwater0929/4th-ML100Days/blob/master/homework/Day_103_HW.ipynb)
